@@ -7,8 +7,8 @@
 
 ---
 
-**TIB 2 - "OOS" Labor in `C++`** 
+#TIB 2 - "OOS" Labor in `C++` 
 ---
-**TIB 2 - "BS" Labor für Linux**
+#TIB 2 - "BS" Labor für Linux
 
 ```
